@@ -52,25 +52,16 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Bauer Academy Content Creator Apprenticeship",
-        "url": "https://baueracademy.co.uk/bauer-academy-content-creator-apprenticeship/",
-        "type": "Programme",
-        "source": "Bauer Academy",
-        "tags": [
-          "level 3 programme overview"
-        ]
-      },
-      {
-        "title": "Content Creator programme overview",
-        "url": "https://baueracademy.co.uk/wordpress/wp-content/uploads/2024/05/Content-Creator-level-3.pdf",
+        "title": "Creative Communication programme guide",
+        "url": "assets/Allwyn-Creative-Communication-Programme.pdf",
         "type": "PDF",
         "source": "Bauer Academy",
         "tags": [
-          "course brochure modules skills"
+          "bespoke allwyn programme overview storytelling communication multiplatform"
         ]
       },
       {
-        "title": "Content Creator Level 3 apprenticeship standard",
+        "title": "Skills England site",
         "url": "https://skillsengland.education.gov.uk/apprenticeship-standards/st0105-v1-1",
         "type": "Official",
         "source": "Skills England",
@@ -106,7 +97,7 @@ window.RESOURCE_CATEGORIES = [
     ],
     "resources": [
       {
-        "title": "A complete toolkit for journalism content creators",
+        "title": "A complete journalism toolkit",
         "url": "https://www.journalism.co.uk/a-complete-toolkit-for-journalism-content-creators/",
         "type": "Toolkit",
         "source": "Journalism.co.uk",
@@ -632,7 +623,7 @@ window.RESOURCE_CATEGORIES = [
     ],
     "resources": [
       {
-        "title": "Social media endorsements: guidance for content creators",
+        "title": "Social media endorsements and transparency guidance",
         "url": "https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers",
         "type": "Official",
         "source": "GOV.UK",
@@ -1012,7 +1003,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Coursera content creation professional certificate",
+        "title": "Coursera creative communication professional certificate",
         "url": "https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook",
         "type": "Course",
         "source": "Coursera",
@@ -1021,7 +1012,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Coursera: what is a content creator?",
+        "title": "Coursera: careers in digital communication",
         "url": "https://www.coursera.org/articles/content-creator",
         "type": "Guide",
         "source": "Coursera",
@@ -1030,7 +1021,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Coursera: digital content creator skills",
+        "title": "Coursera: digital communication skills",
         "url": "https://www.coursera.org/articles/digital-content-creator-skills",
         "type": "Guide",
         "source": "Coursera",
@@ -1039,7 +1030,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Open University short course in content creation",
+        "title": "Open University short course in digital communication",
         "url": "https://www.open.ac.uk/courses/short-courses/bgxs021",
         "type": "Course",
         "source": "The Open University",
@@ -1057,7 +1048,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Udemy content creation courses",
+        "title": "Udemy creative communication courses",
         "url": "https://www.udemy.com/topic/content-creation/",
         "type": "Courses",
         "source": "Udemy",
@@ -1066,7 +1057,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Skillshare content creation classes",
+        "title": "Skillshare creative communication classes",
         "url": "https://www.skillshare.com/browse/content-creation",
         "type": "Courses",
         "source": "Skillshare",
@@ -1075,7 +1066,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Domestika content creation courses",
+        "title": "Domestika creative communication courses",
         "url": "https://www.domestika.org/en/courses/category/27-content-creation",
         "type": "Courses",
         "source": "Domestika",
@@ -1093,7 +1084,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "YouTube Creators learning hub",
+        "title": "YouTube learning hub",
         "url": "https://www.youtube.com/creators/",
         "type": "Official",
         "source": "YouTube",
@@ -1156,7 +1147,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Content creator podcasts roundup",
+        "title": "Creative communication podcasts roundup",
         "url": "https://indiemedia.club/insights/best-content-creator-podcasts/",
         "type": "Guide",
         "source": "Indie Media Club",
@@ -1165,7 +1156,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Spotify for Creators learning hub",
+        "title": "Spotify learning hub",
         "url": "https://creators.spotify.com/resources/learn",
         "type": "Official",
         "source": "Spotify",
@@ -1408,7 +1399,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Guide to content creator platforms",
+        "title": "Guide to digital communication platforms",
         "url": "https://www.mightynetworks.com/resources/content-creator-platforms",
         "type": "Guide",
         "source": "Mighty Networks",
@@ -1420,7 +1411,7 @@ window.RESOURCE_CATEGORIES = [
   },
   {
     "id": "examples-mentorship",
-    "title": "Creator and content examples",
+    "title": "Creative communication examples",
     "summary": "Channels, campaigns and creative examples to analyse rather than simply imitate.",
     "ksb": "Examples and mentorship",
     "tone": "turquoise",
@@ -1435,7 +1426,7 @@ window.RESOURCE_CATEGORIES = [
     ],
     "resources": [
       {
-        "title": "Official YouTube Creators hub",
+        "title": "Official YouTube learning hub",
         "url": "https://www.youtube.com/creators/",
         "type": "Official",
         "source": "YouTube",
@@ -1444,7 +1435,7 @@ window.RESOURCE_CATEGORIES = [
         ]
       },
       {
-        "title": "Roberto Blake: creator economy",
+        "title": "Roberto Blake: digital media strategy",
         "url": "https://www.youtube.com/@robertoblake",
         "type": "Channel",
         "source": "YouTube",
